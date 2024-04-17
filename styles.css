@@ -1,0 +1,79 @@
+*, html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: bisque;
+    height: 200vh;
+    width: auto;
+}
+
+.navbar {
+    display: flex;
+    background-color: rgb(255, 153, 0);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+}
+
+.h1-title {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.box-parag {
+    background-color: rgb(255, 153, 0);
+    margin: 300px;
+    margin-top: 20px;
+    padding: 50px;
+    border-radius: 50px;
+}
+
+.box-parag p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.contain {
+    display: flex;
+    padding-top: 50px;
+}
+
+
+
+.catmew {
+    width: 400px;
+    padding-left:400px;
+    
+}
+
+.plus {
+    padding-top: 200px;
+    padding-left: 200px;
+}
+
+.mewing {
+    padding-left: 200px;
+    width: 400px;
+}
+
+.equal {
+    text-align: center;
+    padding-top: 100px ;
+}
+
+.fullimg {
+    width: 400px;
+
+    padding-left: 800px;
+}
