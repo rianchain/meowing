@@ -32,6 +32,7 @@ li {
 }
 
 .box-parag {
+    display: block;
     background-color: rgb(255, 153, 0);
     margin: 300px;
     margin-top: 20px;
@@ -53,7 +54,7 @@ li {
 
 .catmew {
     width: 400px;
-    padding-left:400px;
+    padding-left:0px;
     
 }
 
@@ -75,5 +76,5 @@ li {
 .fullimg {
     width: 400px;
 
-    padding-left: 800px;
+    padding-left: 0px;
 }
