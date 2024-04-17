@@ -48,6 +48,8 @@ li {
 .contain {
     display: flex;
     padding-top: 50px;
+    align-items: center;
+    justify-content: center;
 }
 
 
@@ -75,6 +77,5 @@ li {
 
 .fullimg {
     width: 400px;
-
-    padding-left: 0px;
+    padding-left: 470px;
 }
